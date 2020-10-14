@@ -1,6 +1,5 @@
 # test-repo
 Testing tag feature
 
-===================
-Testing Tag feature
-====================
+
+# Testing Tag feature
